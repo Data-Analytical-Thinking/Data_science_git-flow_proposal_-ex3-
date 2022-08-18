@@ -1,4 +1,5 @@
 # Data_science_git-flow_proposal_-ex3-
+
 Proposta de Workflow baseado em Git focado em ciência de Dados.
 
 Autores: Fabrycio Almada, Kauan Divino, Matheus Brandão, Maykon Dutra.
